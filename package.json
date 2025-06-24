@@ -1,0 +1,33 @@
+{
+  "name": "youtube-transcript-highlight",
+  "version": "1.0.0",
+  "description": "JavaScript tool for highlighting YouTube transcript expressions with translation tooltips and per-video persistence",
+  "main": "injector.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fynlyn/youtube-transcript-highlight.git"
+  },
+  "keywords": [
+    "youtube",
+    "transcript",
+    "translation",
+    "highlighting",
+    "language-learning",
+    "javascript",
+    "bookmarklet",
+    "userscript",
+    "css-highlight-api"
+  ],
+  "author": "fynlyn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fynlyn/youtube-transcript-highlight/issues"
+  },
+  "homepage": "https://github.com/fynlyn/youtube-transcript-highlight#readme",
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
